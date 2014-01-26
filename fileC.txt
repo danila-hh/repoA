@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modified
+=======
+conflict resolved;
+>>>>>>> 54a709206cc3f318aa3215dc8950d3150f15bcb7
